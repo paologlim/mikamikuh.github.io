@@ -10,7 +10,7 @@ description: ""
 ![myself](/img/about/myself.jpg)
 
 
-Kohei Mikami. I am a computer programmer in Japan. I was working as a eclipse plugin developper and test engineer for 5 years. I also made games for smartphone and a desktop application on Mac OS as my hobby. I'm looking for full-time/part-time/internship job as a developper in Canada. -> [Resume](https://careers.stackoverflow.com/mikamikuh)
+Kohei Mikami. I am a computer programmer in Japan. I used to work as an eclipse plugin developer and test engineer for 5 years. I also make games for smartphones and desktop applications on Mac OS as a hobby. I'm currently looking for full-time/part-time/internship opportunities as a developer in Canada. -> [Resume](https://careers.stackoverflow.com/mikamikuh)
 
 ## My social accounts ##
 - [Stackoverflow](http://stackoverflow.com/users/1317877/kouhei-mikami)
@@ -43,7 +43,7 @@ Kohei Mikami. I am a computer programmer in Japan. I was working as a eclipse pl
 ![traveling](/img/about/traveling.jpg)
 
 
-I was inspired Alex MacCaw's article [Traveling, Writing and Programming](http://old.alexmaccaw.com//posts/traveling_writing_programming) 3 years ago. I started to desire to go to abroad then. Though I couldn't speak English well, I made a plan to learn Englsih and going abroad. As a result, I'm learning English in the Philippines now. After school, I'm going to Thailand for vacation and programming this summer. 2014's autumn, I'm going to find a job in Canada.
+I was inspired by Alex MacCaw's article [Traveling, Writing and Programming](http://old.alexmaccaw.com//posts/traveling_writing_programming) 3 years ago. I started to have a desire to go to abroad then. Though I couldn't speak English well, I made a plan to learn English and go abroad. As a result, I'm learning English in the Philippines now. After school, I'm going to Thailand for vacation and programming this summer. 2014's autumn, I'm going to find a job in Canada.
 
 # Life in Japan #
 
@@ -51,7 +51,7 @@ I was inspired Alex MacCaw's article [Traveling, Writing and Programming](http:/
 ![gekkhouse](/img/about/geekhouse.jpg)
 
 
-I lived in "Geekhouse", a share-house what lives many programmers in Japan for 2 years. I used to organized Unity game developer's event in the house. Particularly, [global game jam 2013](http://2013.globalgamejam.org/sites/2013/geekhouse-musashikosugi) was the most interesting event I've ever organized. Not only that, we sometimes held a party to talk about technology, buisiness and our hobby(anime, manga) with others.
+I lived in "Geekhouse", a share-house which has accommodated many programmers in Japan for 2 years now. I used to organize Unity game developer's events in the house. Particularly, [global game jam 2013](http://2013.globalgamejam.org/sites/2013/geekhouse-musashikosugi) was the most interesting event I've ever organized. Not only that, we sometimes held parties to talk about technology, business and hobbies (anime, manga) with others.
 
 # My Hobby #
 
@@ -59,6 +59,6 @@ I lived in "Geekhouse", a share-house what lives many programmers in Japan for 2
 ![boardgame](/img/about/boardgame.jpg)
 
 
-Board game is the most interesting game that I've ever played. When people play board game, they can be friend easily. I also like to think about tactics and rule of the board game. It makes my mind active!
+Board game is the most interesting game that I've ever played. When people play board games, they become friendly. I also like to think about the tactics and rules of the board games. It makes my mind active!
 
 {% include JB/setup %}
